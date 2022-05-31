@@ -1,9 +1,8 @@
-
-package com.example.web;
+package com.exmaple.web;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
-import java.io.*;
+import javax.io.*;
 
 public class BeerSelect extends HttpServlet {
 
@@ -25,3 +24,6 @@ public class BeerSelect extends HttpServlet {
 
 
 }
+
+
+//C:\Program Files\Apache Software Foundation\Tomcat 9.0\lib
